@@ -30,7 +30,7 @@ recipe). No bought, botted or farmed views — only real people watching.
 
 ## The TikTok post
 
-Posted publicly from **@KAGEADAABHE**. The video's address is in
+Posted publicly from TikTok **@abemabayo** (display name KAGEADAABHE). The video's address is in
 [`VIDEO.json`](VIDEO.json).
 
 Caption (exact):
